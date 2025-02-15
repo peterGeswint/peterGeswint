@@ -11,7 +11,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## 🚀 Projects
 Here are some of the projects I've been working on:
-- [Project 1](https://github.com/peterGeswint/project1): A brief description of what project 1 is about.
+- [IT Chronicles](https://github.com/peterGeswint/Alx-Portfolio-Project-SkillsShareConnect.git): Blog website created for my alx specialization sprint. Made with .NET MVC.
 - [Project 2](https://github.com/peterGeswint/project2): A brief description of what project 2 is about.
 - [Project 3](https://github.com/peterGeswint/project3): A brief description of what project 3 is about.
 
