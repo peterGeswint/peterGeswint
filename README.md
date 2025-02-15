@@ -4,10 +4,10 @@
 I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. I enjoy working on both front-end and back-end projects, and I'm always looking for opportunities to collaborate on exciting projects.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C++
+- **Languages:** JavaScript, Python, C, C#, HTML, CSS.
 - **Frameworks:** React, Node.js, Django, Spring
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Kubernetes.
+- **Databases:** MySQL, SQLServer
 
 ## 🚀 Projects
 Here are some of the projects I've been working on:
@@ -19,7 +19,7 @@ Here are some of the projects I've been working on:
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterGeswint&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- **Email:** peter.geswint@example.com
+- **Email:** peter.geswint@outlook.com
 - **LinkedIn:** [Peter Geswint](https://www.linkedin.com/in/peterGeswint)
 
 Feel free to reach out if you want to collaborate on a project or just want to connect!
