@@ -13,7 +13,7 @@ I'm a passionate software developer with a love for creating innovative solution
 Here are some of the projects I've been working on:
 - [IT Chronicles](https://github.com/peterGeswint/Alx-Portfolio-Project-SkillsShareConnect.git): Blog website created for my alx specialization sprint. Made with .NET MVC.
 - [Skill Share Connect](https://github.com/peterGeswint/Alx-Portfolio-Project-SkillsShareConnect.git): A project I created for my portfolio, it is a website where volunteer and jobs opportunities can be posted.
-- [School Management](https://github.com/peterGeswint/SchoolManagementApp.mvc.git): A brief description of what project 3 is about.
+- [School Management](https://github.com/peterGeswint/SchoolManagementApp.mvc.git): A school management system for schools who want to move their files and records online.
 
 ## 📈 GitHub Stats
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterGeswint&show_icons=true&theme=radical)
