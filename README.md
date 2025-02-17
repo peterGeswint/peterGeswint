@@ -1,4 +1,4 @@
-# Hi there, I'm Peter Geswint 👋
+# Hi there, I'm Peter Geswint 👋 😄
 
 ## About Me
 I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. I enjoy working on both front-end and back-end projects, and I'm always looking for opportunities to collaborate on exciting projects.
