@@ -5,7 +5,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, C, C#, HTML, CSS.
-- **Frameworks:** React, Node.js, Django, Spring
+- **Frameworks:** React, Node.js, Django, .NET
 - **Tools:** Git, Docker, Kubernetes.
 - **Databases:** MySQL, SQLServer
 
